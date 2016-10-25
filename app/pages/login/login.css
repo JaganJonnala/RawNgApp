@@ -1,0 +1,29 @@
+
+ActionBar{
+background-color: white;
+color: black;
+}
+.iphone{
+background-image: url("~/images/iPhone5.png");
+background-repeat: no-repeat;
+background-size: 120% 100%;
+padding: 20;
+}
+.incrWidth{
+width: 100%;
+margin-bottom: 250;
+}
+.button {
+background-color: #eacb20;
+border-radius: 75;
+color: white;
+width: 40%;
+font-size: 20Px;
+font-weight: bold;
+margin-top: 30;
+}
+
+.inputTextError {
+border-width: 2;
+}
+
