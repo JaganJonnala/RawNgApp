@@ -27,7 +27,6 @@
     "nativescript-couchbase": "^1.0.12",
     "nativescript-imagepicker": "^2.3.1",
     "nativescript-loading-indicator": "^2.2.1",
-    "nativescript-plugin-firebase": "^3.7.1",
     "nativescript-slider": "^1.0.0",
     "nativescript-snackbar": "^1.1.4",
     "nativescript-toasts": "^1.0.1",
